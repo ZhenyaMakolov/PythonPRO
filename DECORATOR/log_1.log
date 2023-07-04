@@ -1,0 +1,13 @@
+function name: hello_world, 
+Function call time: 2023-04-23 17:50:33.411007, 
+function arguments: (), {}, 
+call result: Hello Worldfunction name: summator, 
+Function call time: 2023-04-23 17:50:33.411007, 
+function arguments: (2, 2), {}, 
+call result: 4function name: div, 
+Function call time: 2023-04-23 17:50:33.411007, 
+function arguments: (6, 2), {}, 
+call result: 3.0function name: summator, 
+Function call time: 2023-04-23 17:50:33.411007, 
+function arguments: (4.3,), {'b': 2.2}, 
+call result: 6.5
